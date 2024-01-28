@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+   
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    height: 75px;
+    line-height: 75px;
+    margin-top: 20px;
+    padding: 1% 5%;
+    background-color: white;
+    
+    
+}
+nav img {
+   
+    width: 200px;
+    
+    
+   
+}
+ 
+    
+
+nav ul li{
+    float:left;
+    list-style: none;
+    position: relative;
+}
+nav ul li a{
+    
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color:#151515;
+    font-size: 17px;
+    padding: 0px 16px;
+    display: block;
+    
+    
+}
+button{
+    width: 180px;
+    height: 44px; 
+    
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+        
+        
+}
+
+/* ------container------- */
+
+.container img{
+    width: 1519px;
+}
+
