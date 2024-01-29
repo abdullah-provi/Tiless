@@ -258,7 +258,7 @@ a.link-button:hover{
     font-family:Arial, Helvetica, sans-serif ;
   
   }
-  .child-3 a{
+    .child-3 a{
     font-size: 13px;
     font-weight: bold;
     color: #151515;
@@ -266,7 +266,7 @@ a.link-button:hover{
     text-decoration: none;
  
   }
-  .link-item a:hover{
+    .link-item a:hover{
        color: #f39b00;
   }
   
@@ -305,7 +305,7 @@ a.link-button:hover{
  /* ---------section-7-------- */
 
     .container-7{
-    /* width: 100%; */
+   
     display: flex;
     justify-content: center;
     align-items: center;
@@ -328,6 +328,113 @@ a.link-button:hover{
         transition: 0.3s;
     }
 /* ---------section-8------- */
+
+    .container-8{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 35px;
+    font-family:Arial, Helvetica, sans-serif ;
+    color: #151515e2;
+    padding: 5%;
+}
+/* <!----------section-9----------> */
+
+    .container-9{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+    padding: 5%;
+   
+        
+}
+    .people-photos img{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+    .people-detail p{
+    text-align: justify;
+    
+}
+
+/* -------section-10------- */
+
+ .container-10{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f2f3f8;
+    padding: 5%;
+
+ }
+ .box-1 h2{
+     font-size: 50px;
+     font-family:Arial, Helvetica, sans-serif  ;
+ }
+
+ /* ----------section-11-------- */
+ .container-11{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color: #f2f3f8;
+     
+ }
+
+ .container-11 .box-2{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     gap: 80px;
+     padding: 5%;
+    
+    
+ }
+.pictures p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif ;
+    color: #151515;
+    font-size:20px;
+    padding-left: 20px;
+    background-color: white;
+    padding: 5%;
+ 
+}
+
+/* <!-- -------section-12------- --> */
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #151515;
+    padding: 70px;
+    text-decoration: none;
+
+}
+.footer ul li{
+    float:left;
+    list-style: none;
+    position: relative;
+}
+.footer ul li a{
+    
+    text-decoration: none;
+    font-family:"Roboto", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color:white;
+    font-size: 15px;
+    padding: 0px 16px;
+    display: block;
+    
+}
+
+
+
 
     
  
